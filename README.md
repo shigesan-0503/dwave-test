@@ -1,2 +1,4 @@
 # dwave-test
-test for dwave 
+
+まず、D-Wave Ocean SDKをインストールしましょう
+インストールしたら、ランタイムをリスタートしてください
